@@ -1,4 +1,4 @@
-# Conway Cube
+# Conway Cube - WIP
 
 Cube desklights made from Adafruit's electronics kit for ![Conway's Game of Life](https://www.adafruit.com/product/89)
 
