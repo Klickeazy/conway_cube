@@ -1,13 +1,15 @@
 # Conway Cube - WIP
 
-Cube desklights made from Adafruit's electronics kit for ![Conway's Game of Life](https://www.adafruit.com/product/89)
+Cube desklights made from Adafruit's electronics kit for [Conway's Game of Life](https://www.adafruit.com/product/89)
+
+![Demo video](resources/ConwayCube_Demo.mp4)
 
 https://github.com/Klickeazy/conway_cube/assets/15553730/a8a9cece-7bf0-4001-8842-4d74c4a322be
 
 ### Parts
-- 4 x ![Conway's Game of Life Kit - v1.3](https://www.adafruit.com/product/89)
-- 1 x ![USB-A break out board](https://a.co/d/ib6OiX5)
-- 1 x ![USB-A male to USB-A male cable](https://a.co/d/3082f9x)
+- 4 x [Conway's Game of Life Kit - v1.3](https://www.adafruit.com/product/89)
+- 1 x [USB-A break out board](https://a.co/d/ib6OiX5)
+- 1 x [USB-A male to USB-A male cable](https://a.co/d/3082f9x)
 
 - 3D Printed parts
   - 2 x [Base](stl/Base.stl)
