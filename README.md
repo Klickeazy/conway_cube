@@ -1,4 +1,4 @@
-# Conway Cube - WIP
+# Conway Cube
 
 Cube desklights made from Adafruit's electronics kit for [Conway's Game of Life](https://www.adafruit.com/product/89)
 
@@ -20,8 +20,12 @@ https://github.com/Klickeazy/conway_cube/assets/15553730/a8a9cece-7bf0-4001-8842
 ### Instructions
 - Assemble each of the PCB kits SEPARATELY by [Adafruit's instructions](https://learn.adafruit.com/game-of-life). Ensure that all elements are as flush to the PCB as possible. If you are good at soldering and want a clean finish, mount all the LEDs on one side and all the other components on the reverse side.
 - Place the PCB on the inner grooves of one of the *base* pieces
-- Use inch long flexible wire to join the panels along the N-S direction. This will give you flexibility in mounting the panels
+- Use inch long flexible wire to join the panels along the N-S direction. This orientation gives good flexibility and clearances while mounting panels
 - Each glue-up pair used superglue and accelerant
 - Match the slotted side panel and slotted arm of one of the bases to pass-through the USB cable
 
 ![Exploded View](resources/explode_view.png)
+
+### Possible design updates
+- Externally mounted reset / on-off switch
+- Externally mounted USB-breakout board
